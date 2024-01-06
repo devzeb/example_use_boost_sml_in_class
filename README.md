@@ -11,6 +11,10 @@ This example demonstrates:
 - how to use member variables of type bool as guards
 - how to use member variables of any type that is implicitly convertible to bool as guards
 
+# Was this example helpful?
+
+If you like this example and want to support me, you can do so by buying me a coffee, pizza or other developer essentials by clicking this link: [Support me with PayPal](https://www.paypal.com/donate/?hosted_button_id=TGDGATFR63N3G)
+
 # Getting stated with this example
 
 - clone this repository
